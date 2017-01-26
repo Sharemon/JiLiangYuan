@@ -1,0 +1,8 @@
+C:\Users\pxy\Project\c#\王工-4.3\wince串口\wince\wince\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pxy\Project\c#\王工-4.3\wince串口\wince\wince\obj\Debug\wince.Form1.resources
+C:\Users\pxy\Project\c#\王工-4.3\wince串口\wince\wince\obj\Debug\wince.Properties.Resources.resources
+C:\Users\pxy\Project\c#\王工-4.3\wince串口\wince\wince\obj\Debug\wince.csproj.GenerateResource.Cache
+C:\Users\pxy\Project\c#\王工-4.3\wince串口\wince\wince\bin\Debug\wince.exe
+C:\Users\pxy\Project\c#\王工-4.3\wince串口\wince\wince\bin\Debug\wince.pdb
+C:\Users\pxy\Project\c#\王工-4.3\wince串口\wince\wince\obj\Debug\wince.exe
+C:\Users\pxy\Project\c#\王工-4.3\wince串口\wince\wince\obj\Debug\wince.pdb

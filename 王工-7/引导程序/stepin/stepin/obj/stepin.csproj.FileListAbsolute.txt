@@ -1,0 +1,8 @@
+C:\Project\Project\c#\王工-7\引导程序\stepin\stepin\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\Project\c#\王工-7\引导程序\stepin\stepin\obj\Debug\stepin.Form1.resources
+C:\Project\Project\c#\王工-7\引导程序\stepin\stepin\obj\Debug\stepin.Properties.Resources.resources
+C:\Project\Project\c#\王工-7\引导程序\stepin\stepin\obj\Debug\stepin.csproj.GenerateResource.Cache
+C:\Project\Project\c#\王工-7\引导程序\stepin\stepin\bin\Debug\stepin.exe
+C:\Project\Project\c#\王工-7\引导程序\stepin\stepin\bin\Debug\stepin.pdb
+C:\Project\Project\c#\王工-7\引导程序\stepin\stepin\obj\Debug\stepin.exe
+C:\Project\Project\c#\王工-7\引导程序\stepin\stepin\obj\Debug\stepin.pdb

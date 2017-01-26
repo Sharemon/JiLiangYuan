@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DeviceApplication1">
+</Property><Property Name="解决方案文件" Value="C:\Project\c#\王工-4.3\DeviceApplication1\DeviceApplication1.sln">
+</Property><Property Name="用户选项文件" Value="C:\Project\c#\王工-4.3\DeviceApplication1\DeviceApplication1.suo">
+</Property><Property Name="Date" Value="2015年10月23日">
+</Property><Property Name="Time" Value="上午7:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DeviceApplication1.sln" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DeviceApplication1.suo" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1.suo">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\DeviceApplication1.csproj" Description="项目文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\DeviceApplication1.csproj">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\DeviceApplication1.csproj.user" Description="项目用户文件成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\DeviceApplication1.csproj.user">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form1.cs" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form1.Designer.cs" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form2.cs" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Form2.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form2.Designer.cs" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form3.cs" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Form3.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form3.Designer.cs" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form4.cs" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Form4.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form4.Designer.cs" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Form4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Program.cs" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Program.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\VPC.ico" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\VPC.ico">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form1.resx" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form1.sr-Latn-CS.resx" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Form1.sr-Latn-CS.resx">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form2.resx" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Form2.resx">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form3.resx" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Form3.resx">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form4.resx" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Form4.resx">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Properties\Resources.resx" Description="文件已成功备份为 C:\Project\c#\王工-4.3\DeviceApplication1\Backup\DeviceApplication1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\DeviceApplication1.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DeviceApplication1" Source="DeviceApplication1\DeviceApplication1.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="DeviceApplication1" Source="DeviceApplication1\DeviceApplication1.csproj" Description="无法打开项目文件“C:\Project\c#\王工-4.3\DeviceApplication1\DeviceApplication1\DeviceApplication1.csproj”。&#xA;&#xA;此安装不支持该项目类型。">
+</Event><Event ErrorLevel="0" Project="" Source="DeviceApplication1.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="DeviceApplication1.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,8 @@
+ [DllImport("coredll.dll")]
+      static extern int ShowWindow(IntPtr hWnd, int nCmdShow);
+ 
+      const int SW_MINIMIZED = 6;
+   void  MiniMize()
+   {
+       ShowWindow(this.Handle, SW_MINIMIZED);
+   }
