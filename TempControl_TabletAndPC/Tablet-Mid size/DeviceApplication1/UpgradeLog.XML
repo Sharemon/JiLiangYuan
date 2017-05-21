@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DeviceApplication1">
+</Property><Property Name="Solution File" Value="C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1.suo">
+</Property><Property Name="Date" Value="2016年10月26日">
+</Property><Property Name="Time" Value="18:57">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DeviceApplication1.sln" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DeviceApplication1.suo" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1.suo">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\DeviceApplication1.csproj" Description="Project file successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\DeviceApplication1.csproj">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\DeviceApplication1.csproj.user" Description="Project user file successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\DeviceApplication1.csproj.user">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form1.cs" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form2.cs" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Form2.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form2.Designer.cs" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form3.cs" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Form3.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form3.Designer.cs" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form4.cs" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Form4.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form4.Designer.cs" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Form4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Program.cs" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Program.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\VPC.ico" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\VPC.ico">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form1.resx" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form1.sr-Latn-CS.resx" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Form1.sr-Latn-CS.resx">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form2.resx" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Form2.resx">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form3.resx" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Form3.resx">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form4.resx" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Form4.resx">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\Backup\DeviceApplication1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\DeviceApplication1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DeviceApplication1" Source="DeviceApplication1\DeviceApplication1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DeviceApplication1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DeviceApplication1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form1.sr-Latn-CS.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="DeviceApplication1" Source="DeviceApplication1\Form1.sr-Latn-CS.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="DeviceApplication1" Source="DeviceApplication1\Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form2.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="DeviceApplication1" Source="DeviceApplication1\Form2.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form3.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="DeviceApplication1" Source="DeviceApplication1\Form3.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Form4.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="DeviceApplication1" Source="DeviceApplication1\Form4.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="DeviceApplication1" Source="DeviceApplication1\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DeviceApplication1" Source="DeviceApplication1\DeviceApplication1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

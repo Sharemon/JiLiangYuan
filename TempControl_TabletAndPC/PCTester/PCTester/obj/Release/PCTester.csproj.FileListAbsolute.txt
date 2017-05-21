@@ -1,0 +1,7 @@
+C:\Users\Roy\Desktop\Proj Local\Conductivity-Temperature-Automatic-Control\TempControl_TabletAndPC\PCTester\PCTester\bin\Release\PCTester.exe
+C:\Users\Roy\Desktop\Proj Local\Conductivity-Temperature-Automatic-Control\TempControl_TabletAndPC\PCTester\PCTester\bin\Release\PCTester.pdb
+C:\Users\Roy\Desktop\Proj Local\Conductivity-Temperature-Automatic-Control\TempControl_TabletAndPC\PCTester\PCTester\obj\Release\PCTester.Form1.resources
+C:\Users\Roy\Desktop\Proj Local\Conductivity-Temperature-Automatic-Control\TempControl_TabletAndPC\PCTester\PCTester\obj\Release\PCTester.Properties.Resources.resources
+C:\Users\Roy\Desktop\Proj Local\Conductivity-Temperature-Automatic-Control\TempControl_TabletAndPC\PCTester\PCTester\obj\Release\PCTester.csproj.GenerateResource.Cache
+C:\Users\Roy\Desktop\Proj Local\Conductivity-Temperature-Automatic-Control\TempControl_TabletAndPC\PCTester\PCTester\obj\Release\PCTester.exe
+C:\Users\Roy\Desktop\Proj Local\Conductivity-Temperature-Automatic-Control\TempControl_TabletAndPC\PCTester\PCTester\obj\Release\PCTester.pdb
