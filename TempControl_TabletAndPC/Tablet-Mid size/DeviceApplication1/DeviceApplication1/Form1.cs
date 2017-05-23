@@ -485,7 +485,13 @@ namespace DeviceApplication1
             // read all data
             if (serialPort2.BytesToRead < 5)
                 return;
-            string readData = serialPort2.ReadTo("@");
+
+            string readData = "";
+            try
+            { readData = serialPort2.ReadTo("@");}
+            catch (Exception)
+            { serialPort2.DiscardInBuffer(); return; }
+            
             serialPort2.DiscardInBuffer();
 
             // System cmd
@@ -506,11 +512,17 @@ namespace DeviceApplication1
                 switch (cmd)
                 {
                     case "CTEMP":       // current temperature
-                        returnStr = this.TempShow.Text.Substring(0, TempShow.Text.Length - 1);
+                        this.Invoke(new EventHandler(delegate
+                        {
+                            returnStr = this.TempShow.Text.Substring(0, TempShow.Text.Length - 2);
+                        }));
                         break;
 
                     case "CPOWER":      // current power
-                        returnStr = this.PowerShow.Text.Substring(0, PowerShow.Text.Length - 2);
+                        this.Invoke(new EventHandler(delegate
+                        {
+                            returnStr = this.PowerShow.Text.Substring(0, PowerShow.Text.Length - 2);
+                        }));
                         break;
 
                     case "FLUCT":       // temperature fluctuation
@@ -565,14 +577,14 @@ namespace DeviceApplication1
                 // get the cmd 
                 string[] dataArr = readData.Substring(0, readData.Length - 1).Split(new char[] { ':' });
                 if (dataArr.Length != 2)
-                    return;
+                { this.Invoke(new EventHandler(delegate { timer1.Enabled = true; })); return; }
 
                 string cmd = dataArr[0];
                 float value = 0.0f;
                 try
                 { value = float.Parse(dataArr[1]); }
                 catch (Exception)
-                { return; }
+                { this.Invoke(new EventHandler(delegate { timer1.Enabled = true; }));  return; }
 
                 // decode the parameter and set parameter
                 string returnStr = "";
@@ -660,6 +672,7 @@ namespace DeviceApplication1
                         break;
 
                     default:
+                        this.Invoke(new EventHandler(delegate{ timer1.Enabled = true; }));
                         return;
                 }
 

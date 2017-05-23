@@ -74,3 +74,11 @@ C:\Users\Roy\Desktop\Proj Local\Conductivity-Temperature-Automatic-Control\UART 
 C:\Users\Roy\Desktop\Proj Local\Conductivity-Temperature-Automatic-Control\UART Test Program\串口测试程序\obj\x86\Debug\串口测试程序.Form1.resources
 C:\Users\Roy\Desktop\Proj Local\Conductivity-Temperature-Automatic-Control\UART Test Program\串口测试程序\obj\x86\Debug\串口测试程序.Properties.Resources.resources
 C:\Users\Roy\Desktop\Proj Local\Conductivity-Temperature-Automatic-Control\UART Test Program\串口测试程序\obj\x86\Debug\串口测试程序.csproj.GenerateResource.Cache
+C:\Users\Roy\Desktop\Proj Local\JiLiangYuan\UART Test Program\串口测试程序\obj\x86\Debug\串口测试程序.exe
+C:\Users\Roy\Desktop\Proj Local\JiLiangYuan\UART Test Program\串口测试程序\obj\x86\Debug\串口测试程序.pdb
+C:\Users\Roy\Desktop\Proj Local\JiLiangYuan\UART Test Program\串口测试程序\bin\Debug\串口测试程序.exe
+C:\Users\Roy\Desktop\Proj Local\JiLiangYuan\UART Test Program\串口测试程序\bin\Debug\串口测试程序.pdb
+C:\Users\Roy\Desktop\Proj Local\JiLiangYuan\UART Test Program\串口测试程序\obj\x86\Debug\串口测试程序.csprojResolveAssemblyReference.cache
+C:\Users\Roy\Desktop\Proj Local\JiLiangYuan\UART Test Program\串口测试程序\obj\x86\Debug\串口测试程序.Form1.resources
+C:\Users\Roy\Desktop\Proj Local\JiLiangYuan\UART Test Program\串口测试程序\obj\x86\Debug\串口测试程序.Properties.Resources.resources
+C:\Users\Roy\Desktop\Proj Local\JiLiangYuan\UART Test Program\串口测试程序\obj\x86\Debug\串口测试程序.csproj.GenerateResource.Cache

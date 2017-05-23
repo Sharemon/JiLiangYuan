@@ -41,6 +41,7 @@ namespace 串口测试程序
                     int count = sp.BytesToRead;
                     TxtCount.Text = count.ToString();
                     string str = sp.ReadTo(":");
+                    System.Threading.Thread.Sleep(100);
                     sp.DiscardInBuffer();       //以防“/r/n”堵在readBuffer里面，有数但是读不到“:”从而死机。
                     TxtReceive.Text = str;
                     for (int i = 0; i < str.Length; i++)
