@@ -1,0 +1,80 @@
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form3.resources
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.MainForm.resources
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form2.resources
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form4.resources
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Properties.Resources.resources
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.MainForm.sr-Latn-CS.resources
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.csproj.GenerateResource.Cache
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\bin\Release\DeviceApplication1.exe
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\bin\Release\DeviceApplication1.pdb
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\bin\Release\sr-Latn-CS\DeviceApplication1.resources.dll
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\sr-Latn-CS\DeviceApplication1.resources.dll
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.exe
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.pdb
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.SetTempForm.resources
+C:\Users\Roy\Desktop\外包软件备份20160301\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.LogForm.resources
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\bin\Release\DeviceApplication1.exe
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\bin\Release\DeviceApplication1.pdb
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\bin\Release\sr-Latn-CS\DeviceApplication1.resources.dll
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.MainForm.resources
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form2.resources
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form3.resources
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form4.resources
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.LogForm.resources
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Properties.Resources.resources
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.SetTempForm.resources
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.MainForm.sr-Latn-CS.resources
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.csproj.GenerateResource.Cache
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\sr-Latn-CS\DeviceApplication1.resources.dll
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.exe
+C:\Users\Roy\Desktop\外包软件备份20161027\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.pdb
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.MainForm.resources
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form2.resources
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form3.resources
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form4.resources
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.LogForm.resources
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Properties.Resources.resources
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.SetTempForm.resources
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.MainForm.sr-Latn-CS.resources
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.csproj.GenerateResource.Cache
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\bin\Release\DeviceApplication1.exe
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\bin\Release\DeviceApplication1.pdb
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\bin\Release\sr-Latn-CS\DeviceApplication1.resources.dll
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\sr-Latn-CS\DeviceApplication1.resources.dll
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.exe
+C:\Users\Roy\Desktop\外包软件备份20161029\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.pdb
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\bin\Release\DeviceApplication1.exe
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\bin\Release\DeviceApplication1.pdb
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\bin\Release\sr-Latn-CS\DeviceApplication1.resources.dll
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.MainForm.resources
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form2.resources
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form3.resources
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form4.resources
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.LogForm.resources
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Properties.Resources.resources
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.SetTempForm.resources
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.MainForm.sr-Latn-CS.resources
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.csproj.GenerateResource.Cache
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\sr-Latn-CS\DeviceApplication1.resources.dll
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.exe
+C:\Users\Roy\Desktop\外包软件备份20161031\7-64\Project\c#\李老师\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.pdb
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\bin\Release\DeviceApplication1.exe
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\bin\Release\DeviceApplication1.pdb
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\bin\Release\sr-Latn-CS\DeviceApplication1.resources.dll
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.MainForm.resources
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form2.resources
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form3.resources
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Form4.resources
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.LogForm.resources
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.Properties.Resources.resources
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.SetTempForm.resources
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.MainForm.sr-Latn-CS.resources
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.csproj.GenerateResource.Cache
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\obj\Release\sr-Latn-CS\DeviceApplication1.resources.dll
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.exe
+C:\Users\share\Projects\JiLiangYuan\李老师 - 中 - 4位\DeviceApplication1\DeviceApplication1\obj\Release\DeviceApplication1.pdb

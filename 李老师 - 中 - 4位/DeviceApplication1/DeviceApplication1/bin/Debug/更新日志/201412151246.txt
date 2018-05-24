@@ -1,0 +1,1 @@
+去掉form1里面所有的GC.Collect();改成每隔十秒做一次GC.Collect()
